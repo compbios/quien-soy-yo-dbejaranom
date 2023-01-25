@@ -16,4 +16,6 @@ Soy Daniela Bejarano Mora, tengo 23 años. Soy demasiado curiosa, y eso me ha ll
     * Por si te interesa verla, acá está el enlace de la [ponencia](https://www.youtube.com/watch?v=O3bq5fN6CJY&t=6858s)  
 ----  
 ## Inspiración 
->*"Nunca consideres el estudio como una obligación sino como una oportunidad para penetrar en el bello y maravilloso mundo del saber"* Albert Einstein
+>*"Nunca consideres el estudio como una obligación sino como una oportunidad para penetrar en el bello y maravilloso mundo del saber"* Albert Einstein :thumbsup::relaxed::dizzy:
+
+**Agradezco al usuario Fazt Code de YouTube por la información brindada en su tutorial.**
